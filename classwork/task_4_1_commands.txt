@@ -1,0 +1,8 @@
+pip -V
+python -m pip -V
+pip install six
+pip show six
+pip show -f six
+pip list
+pip list --outdated
+pip uninstall six
