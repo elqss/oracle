@@ -1,0 +1,4 @@
+a = int(input())
+b = int(input())
+c = int(input())
+print(a * a + b * b == c * c or a * a + c * c == b * b or b * b + c * c == a * a)
